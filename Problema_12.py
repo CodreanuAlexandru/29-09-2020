@@ -1,0 +1,8 @@
+l=int(input("Numarul de oua luni:"))
+m=int(input("Numarul de oua marti:"))
+me=int(input("Numarul de oua miercuri:"))
+j=int(input("Numarul de oua joi:"))
+v=int(input("Numarul de oua vineri:"))
+s=int(input("Numarul de oua sambata:"))
+d=int(input("Numarul de oua duminica:"))
+print ("Numarul de oua in aceasta saptamana: ",l+m+me+j+v+s+d)

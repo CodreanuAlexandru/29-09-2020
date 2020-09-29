@@ -1,0 +1,6 @@
+a=int(input("Primul numar:"))
+b=int(input("Al doilea numar:"))
+c=int(input("Al treilea numar:"))
+print(a,"+",b,"=",a+b)
+print(c,"+",b,"=",c+b)
+print(c,"+",a,"=",c+a)
